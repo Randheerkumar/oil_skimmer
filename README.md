@@ -11,3 +11,9 @@
   # code.py
   It consist main code for oil detection.
   
+  # ESC.py
+  It consist code for controlling speed of motor through ESC
+  
+  # motion.py
+  It is for handling motion manulaly in the begining
+  
