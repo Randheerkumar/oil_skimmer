@@ -6,3 +6,8 @@
   image consists of oil or not. As soon as oil is detected it
   moves towards the oil. When the bot reaches the oil, the
   conveyor belt starts moving, thus skimming the oil.
+  
+  
+  # code.py
+  It consist main code for oil detection.
+  
